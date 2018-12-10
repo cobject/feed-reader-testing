@@ -1,26 +1,33 @@
 # Feed reader testing
 
+This project is for using test suites using Jasmine test suite. Source code is originally based on
+ [frontend-nanodegree-feedreader](https://github.com/udacity/frontend-nanodegree-feedreader).
+
 # Objectives
 
-1. TBD
+1. To practice test suite using Jasmine
+
+2. To complete project
+
+3. To pass all test cases
 
 # Checklist
 
-TBD
+## Test Coverage
 
-# Style Guide
+- [x] All required Tessts Provided
+- [x] Passing
 
-- CSS: [Udacity Frontend Nanodegree Style Guide for CSS](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+## Documentation
 
-- HTML: [Udacity Frontend Nanodegree Style Guide for HTML](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-
-- Javascript: [Udacity Frontend Nanodegree Style Guide for Javascript](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
-
-# Validation
-
-- [ ] [HTML Validation](https://validator.w3.org/)
-- [ ] [CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_input)
+- [x] README
+- [x] Commentss
+- [x] Code Quality
 
 # Lessons learned
 
-1. TBD
+1. Test-driven development
+
+2. Writing test cases
+
+3. Using Jasmine test suite
